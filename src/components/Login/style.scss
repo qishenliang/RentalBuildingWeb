@@ -1,0 +1,11 @@
+.login-warpper {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  &_content {
+    width: 325px;
+  }
+}
